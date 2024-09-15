@@ -1,2 +1,2 @@
 # Netflix
-This is the close of Netflix Website
+This is the clone of Netflix Website
